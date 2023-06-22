@@ -1,0 +1,24 @@
+
+body{
+    background-image: url(/img/escape_rooms_wien.webp);
+    background-size: cover;
+}
+.kamer1b{
+background-color: blueviolet;
+/* background-color: transparent; */
+height: 100px;
+width: 50px;
+margin-left: 730px;
+margin-top: 425px;
+cursor: pointer;
+}
+.article2{
+    background-color: blue;
+/* background-color: transparent; */
+height: 100px;
+width: 50px;
+margin-left: 1130px;
+margin-top: -255px;
+cursor: pointer;
+
+}

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: horror;
+    src: url("/font/font.otf");
+}
+
+*{
+    margin: 5;
+}
+body{
+    /* background-color: #ffeae3; */
+    background-image:url(/img/Escape-Room-1.jpg);
+}
+.wrapper{
+    background-color: #fcfdff;
+    padding: 10px;
+    margin: auto;
+    width: 650px;
+    height: 550px;
+}
+header{
+    background-color: #9fa2b2;
+    width: 510px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.text{
+    margin-top: auto;
+    line-height: 25px;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.knop{
+    width: 120px;
+    height: 70px;
+    float: right;
+    margin-right: 290px;
+    margin-top: -2%;
+   
+}

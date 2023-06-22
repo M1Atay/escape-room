@@ -1,0 +1,27 @@
+body{
+
+    background-image: url(/img/themaweek\ kamer\ 4\ \(1\).png);
+
+background-size: cover;
+
+background-repeat: no-repeat;
+
+background-size: 1600px 800px;
+
+}
+
+.button{
+
+    height: 80px;
+
+    width: 50px;
+
+    background-color:transparent;
+
+    margin-top: 450px;
+
+    margin-left: 700px;
+
+    cursor: pointer;
+
+}

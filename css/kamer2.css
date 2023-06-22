@@ -1,0 +1,50 @@
+
+
+/* @font-face {
+ font-family: Horror;
+src: url("/fonts/font.otf");
+} */
+
+body{
+ 
+background-size: cover;
+background-repeat: no-repeat;
+background-size: 1700px 900px;
+background-image: url(/img/kamer2-image.png);
+}
+
+#wrapper{
+ width: 900px;
+ margin: auto;
+ background-color: white;
+}
+
+h1 {
+color: black;
+font-family: "Horror";
+/* float:unset; */
+ margin-left: 420px;
+}
+.knop1{
+ /* background-color: aqua; */
+ background-color: transparent;
+ width: 75px;
+ height: 120px;
+ margin-left: 445px;
+ margin-top: 400px;
+ cursor: pointer;
+}
+
+.knop2{
+ background-color: purple;
+background-color: transparent;
+width: 65px;
+height: 120px;
+margin-left: 130px;
+margin-top: -60px;
+cursor: pointer;
+}
+
+
+
+
